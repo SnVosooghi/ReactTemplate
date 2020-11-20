@@ -2,7 +2,7 @@
 
 This is an example of using [Tailwind CSS](https://tailwindcss.com) in a Next.js project.
 
-## Deploy your own
+## Deploy your ownes
 
 Deploy the example using [Vercel](https://vercel.com):
 
